@@ -1,19 +1,11 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Inicio",
       "url": "/"
     },
     {
-      "name": "Blog",
-      "url": "/blog"
-    },
-    {
-      "name": "Pricing",
-      "url": "/pricing"
-    },
-    {
-      "name": "Contact",
+      "name": "Contacto",
       "url": "/contact"
     },
     {
@@ -21,43 +13,25 @@
       "url": "/faq"
     },
     {
-      "name": "Elements",
+      "name": "Sobre nosotros",
       "url": "/elements"
     }
   ],
-  "footer": [
+  "footer": [    
     {
-      "name": "Company",
+      "name": "Servicios",
       "menu": [
         {
-          "text": "Pricing",
-          "url": "/pricing"
+          "text": "Caracteristicas",
+          "url": "#"
         },
         {
-          "text": "Quick Start",
+          "text": "Tipos de asistentes",
           "url": "#"
-        }
-      ]
+        }      ]
     },
     {
-      "name": "Product",
-      "menu": [
-        {
-          "text": "Features",
-          "url": "#"
-        },
-        {
-          "text": "Platform",
-          "url": "#"
-        },
-        {
-          "text": "Pricing",
-          "url": "/pricing"
-        }
-      ]
-    },
-    {
-      "name": "Support",
+      "name": "Soporte",
       "menu": [
         {
           "text": "FAQ",
@@ -66,10 +40,6 @@
         {
           "text": "Privacy Policy",
           "url": "/privacy-policy"
-        },
-        {
-          "text": "Terms & Conditions",
-          "url": "/terms-conditions"
         }
       ]
     }
