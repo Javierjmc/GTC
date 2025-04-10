@@ -1,12 +1,11 @@
 ---
-title: "Contact Us"
-description: "meta description"
+title: "Contacto"
+description: "Formulario de contacto de tu asistente virtual"
 draft: false
 info:
-  title: Why you should contact us!
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+  title: Describe como podemos ayudarte
+  description: Da el primer paso hacia la eficiencia. Completa el formulario y te contactaremos a la brevedad.
   contacts:
-    - "phone: +88 125 256 452"
-    - "Mail: [info@bigspring.com](mailto:info@bigspring.com)"
-    - "Address: 360 Main rd, Rio, Brazil"
+    - "Teléfono: +34 691 312 322"
+    - "Email: [info@globaltalentconnections.net](mailto:info@globaltalentconnections.net)"
 ---

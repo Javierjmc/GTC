@@ -13,7 +13,7 @@ feature:
   title: Asistencia Virtual de Excelencia
   features:
     - name: "Asistente de Arquitectura Virtual"
-      icon: "/images/code.svg"
+      icon: "/images/edificio.png"
       content: "Integra diseño, planificación y gestión estratégica con herramientas digitales avanzadas, optimizando proyectos de construcción y urbanismo."
       funciones:
         - titulo: "Planificación Estratégica"
@@ -37,8 +37,8 @@ feature:
           descripcion: "Evaluaciones de proyectos con simulaciones y modelos 3D."
       llamado: "Convierte la arquitectura en una experiencia inteligente y digital. Optimiza tus proyectos con un Arquitecto Virtual y alcanza un nuevo nivel en diseño y gestión. ¡Contáctanos!"
 
-    - name: "Asistente en Desarrollo Web e informatica"
-      icon: "/images/code.svg"
+    - name: "Asistente de Desarrollo Web e Informatica"
+      icon: "/images/edicion-de-codigo.png"
       content: "Capaz de diseñar, optimizar e integrar plataformas digitales con inteligencia artificial para potenciar la productividad y seguridad tecnológica de tu empresa."
       funciones_clave:
         - titulo: "Desarrollo Web Completo"
@@ -61,7 +61,7 @@ feature:
       llamado: "Impulsa tu transformación digital con un perfil experto en desarrollo e ingeniería. ¡Contrátalo y lleva tu negocio al siguiente nivel!"
 
     - name: "Asistente Contable"
-      icon: "/images/code.svg"
+      icon: "/images/archivo-factura-dolar.png"
       content: "Con nuestro Asistente Virtual Contable, obtendrás una administración eficiente, organizada y respaldada por inteligencia artificial, reduciendo la carga operativa y optimizando los procesos."
       funciones_principales:
         - titulo: "Gestión de Finanzas"
@@ -81,7 +81,7 @@ feature:
       llamado: "Haz que tu gestión financiera sea más inteligente, eficiente y estratégica. Contrata un Asistente Virtual Contable y lleva tu negocio al siguiente nivel. ¡Contáctanos!"
 
     - name: "Asistente en Marketing"
-      icon: "/images/code.svg"
+      icon: "/images/almuerzo-cohete.png"
       content: "Maximizar el rendimiento de estrategias digitales, integrando SEO, SEM y publicidad, creando contenido persuasivo para marcas que buscan generar conexion con la audiencia."
       funciones_principales:
         - titulo: "Gestión de campañas publicitarias"
@@ -99,6 +99,27 @@ feature:
         - descripcion: "Profesionales Independientes: Autónomos que buscan manejo contable ágil y seguro."
         - descripcion: "Negocios Digitales: E-commerce y startups que necesitan optimización financiera automatizada."
       llamado: "Haz que tu gestión financiera sea más inteligente, eficiente y estratégica. Contrata un Asistente Virtual Contable y lleva tu negocio al siguiente nivel. ¡Contáctanos!"
+
+      
+    - name: "Asistente Ejecutivo de Ventas"
+      icon: "/images/carrito-de-compras.png"
+      content: "En un mundo donde la eficiencia y la organización son clave, nuestro servicio combina lo mejor de la gestión administrativa con una estrategia efectiva de ventas y atención al cliente."
+      funciones_principales:
+        - titulo: "Administración y Organización"
+          descripcion: "Este servicio se enfoca en la optimización de procesos internos, la gestión eficiente de recursos y la implementación de sistemas que permitan alcanzar los objetivos empresariales."
+        - titulo: "Gestión de agenda y reuniones"
+          descripcion: "Se centra en la planificación y coordinación de agendas, la programación de citas, la preparación de materiales, la facilitación de reuniones y el seguimiento de acuerdos."
+        - titulo: "Manejo de correos electrónicos"
+          descripcion: "Gestión eficiente de la comunicación por correo electrónico, incluyendo la organización de bandejas de entrada, la redacción de mensajes claros y concisos, y el seguimiento de comunicaciones importantes."
+        - titulo: "Facturación y seguimiento de pagos"
+          descripcion: "Generación de facturas, el seguimiento de pagos pendientes y la gestión de la contabilidad relacionada con las transacciones comerciales."
+        - titulo: "Ventas y Atención al Cliente"
+          descripcion: "atención al cliente, la gestión de quejas y reclamos, y la elaboración de informes de ventas."
+      areas_de_cobertura:
+        - descripcion: "Empresas y Emprendedores: Negocios en crecimiento que requieren control financiero eficiente."
+        - descripcion: "Profesionales Independientes: Autónomos que buscan manejo contable ágil y seguro."
+        - descripcion: "Negocios Digitales: E-commerce y startups que necesitan optimización financiera automatizada."
+      llamado: "Si buscas mejorar la gestión, las ventas y la relación con tus clientes, este servicio es para ti. Contáctanos y descubre cómo podemos ayudarte a crecer."
 
 
 # services
