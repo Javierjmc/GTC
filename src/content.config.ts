@@ -160,6 +160,7 @@ const blogCollection = defineCollection({
   }),
 });
 
+
 // Pages collection schema
 const pagesCollection = defineCollection({
   schema: z.object({

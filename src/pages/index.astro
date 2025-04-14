@@ -11,6 +11,8 @@ const homepage = (await getEntry(
   "-index"
 )) as CollectionEntry<"homepage">;
 const { banner, feature, services, workflow, call_to_action } = homepage.data;
+
+const slug = ["arquitecto", "informatico", "contador", "marketing", "ventas"]
 ---
 
 <Base>
@@ -58,7 +60,7 @@ const { banner, feature, services, workflow, call_to_action } = homepage.data;
       </div>
       <div class="mt-8 grid gap-x-8 gap-y-6 sm:grid-cols-2 lg:grid-cols-3">
         {
-          feature.features.map((item) => (
+          feature.features.map((item, index) => (
             <div class="relative feature-card rounded-xl bg-border hover:bg-white hover:scale-104 text-center overflow-hidden shadow-sm group transition-all pb-4">
               {item.icon && (
                 <Image
@@ -73,7 +75,7 @@ const { banner, feature, services, workflow, call_to_action } = homepage.data;
                 <p class="h6 text-primary font-bold" set:html={markdownify(item.name)} />
                 <p>{item.content}</p>                               
               </div>
-              <a href="" class="hidden group-hover:flex itmes-center absolute bottom-2 right-4 font-semibold hover:scale-105 transition">
+              <a href={`asistente/${slug[index]}`} class="hidden group-hover:flex itmes-center absolute bottom-2 right-4 font-semibold hover:scale-105 transition">
                   <span class="text-primary">Ver detalles</span>
                   <img
                       class="ml-1 filter hue-rotate-40 brightness-100 saturate-110"
